@@ -1,0 +1,53 @@
+.tarjeta{
+    background-color: #d5d8dc;
+    display: flex;
+}
+
+.contacto{
+    background-color: #e5e5e5;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    border: #000 solid 1px;
+}
+
+#nombre{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2980b9;
+}
+
+#cargo{
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#telefono{
+    color: rgb(20, 207, 220);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#correo{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2980b9;
+}
+
+#github{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2980b9;
+}
+#github a{
+    color: black;
+}
+
+#foto_personal{
+    border-radius: 10px;
+    margin: 10px;
+    border: black solid  1px;
+}
